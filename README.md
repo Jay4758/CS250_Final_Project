@@ -1,20 +1,26 @@
-CS250 Final Project: Sprint Review and Retrospective
-This repository contains the final project for CS 250, in which I focused on a travel project based on the strategies of the Scrum-Agile. So, for this project, we applied Scrums and Agile concepts in our work so that we met all our targets stepwise. This helped us determine what we had to accomplish, how many tasks we could finish in one sprint, and whether mid-sprint alterations might be needed. The primary objective was to develop an application for a travel organization, which would be enhanced through subsequent feedback.
+# CS250 Final Project - Jason Morocho
 
-Files in this Repository
-Construction Companies Spring Review And Retrospective Quite: This document portrays everything performed during the project. Such details include the management of a sprint, its duration, the various tasks members had, and the modifications made at the end of every sprint biotechnological advances. In this one, you will get how much has gone well, what did not work as expected, and what action steps were taken to resolve any challenges we experienced. In documenting organizational change in the context of leadership transition and organizational restructuring, I will describe what was neglected in the first paper. I focus on those aspects that support successful teamwork in agile development – the use of Scrum and Kanban in our project that went overseas. In this section, I aim to raise photo-book applications, what vital questions have to do with their development, and what critical factors I should consider while participating in this project.
-How do I understand what the users want and use that in a program for a better purpose?
-When interpreting user needs and requirements into the design, it’s necessary to refer back to the user stories provided by the client and consider how to implement them into practical activities. In our case, user stories aimed at creating features such as various filters for selecting the travel destination that the users needed, and the focus of the design was on what the users wanted to see in the product.
+## Project Overview
 
-Rational emotions: how does making these “user stories” impact the solution?
-User stories are also quite compelling since they simplify the aim we need to achieve: what does the user want? Task definitions list procedures in detail, while user stories describe what the user will see and do when the app is in use. Therefore, once these stories have been written, what needs to be done first is evident. In one instance, in our project, we were required to design a tool for searching travel sites using a set of responsive filters. It also enabled us to progress in the project through smaller, more manageable tasks, scheduling each as necessary. As a result, the process became more efficient, and we could solicit responses and opinions early.
+This project involved developing a travel app using Scrum-Agile methodologies. We focused on implementing a destination filter feature, iterating based on user feedback, and adapting to changes during the development process. Below are the files associated with this project:
 
-How do I go about developing programs?
-Every program begins with a diagram and a blueprint, and the blueprint is further divided into smaller units. Each unit becomes easier to focus on. I prefer to work in smaller chunks to quickly test each chunk individually. After the test, if necessary, I make some changes based on experiments I have performed or feedback I’ve received. This way, I complete one section of the program, and after it is finished, I move on to the next one. In this case, for instance, we went from building a prototype of the destination filter to making it better after understanding how users interact.
+- [Sprint Review and Retrospective](https://github.com/Jay4758/CS250_Final_Project/blob/main/Sprint%20Review%20and%20Retrospective%20-%20Jason%20Morocho.docx)
+- [Scrum vs. Waterfall Presentation](https://github.com/Jay4758/CS250_Final_Project/blob/main/Scrum_Agile_vs_Waterfall_Presentation.pptx)
 
-Which Agile processes will future development tasks?
-Agile processes are an excellent way to streamline work and ensure that teams remain on the same page. Distant visions for my future work include sprint planning, daily standup meetings, and retrospectives. The former assists in the subdivision of tasks, the second ensures that the team is informed about progress and troubles, and the last helps evaluate what was done and what can be improved. We had these processes in this project, which significantly improved our operations. For instance, there was a situation when we had to concentrate on optimizing the app for mobile devices, and this was not a problem due to Agile's mindset.
+## Reflections on Essential Questions
 
-What does it mean to be a good team member in software development?
-A properly communicated work with the rest of the team, a willingness to share thoughts and ideas, and assisting others whenever needed. For this activity, we would have a meeting just after the start of the working day in which everybody would talk about their current activity and the following plans. It was effective because people never had to ask other cheese makers what they were doing, and if any troubles occurred, they were resolved promptly. Besides, the Jira board was used as a virtual whiteboard, orienting everybody in the project tasks. An appropriate member of the team is one who not only concentrates on their problem but also the progress of the whole team.
+**1. How do I interpret user needs and implement them into a program?**  
+Interpreting user needs begins with understanding the client’s requirements through tools like user stories. For this project, user stories helped break down the features we needed to implement. They acted as a guide for the development team to ensure that we stayed on track with what the client expected.
+
+**2. How does creating "user stories" help with this?**  
+Creating user stories helped organize the tasks in smaller increments, making it easier to prioritize and deliver features in sprints. For example, in the SNHU Travel project, we used user stories to structure the development of a destination filter feature, which evolved with feedback across sprints.
+
+**3. How do I approach developing programs?**  
+My approach to program development follows a structured but flexible process. I prefer to work in short sprints, where we continuously test and refine our features. This ensures early feedback and allows changes to be made incrementally without causing major disruptions.
+
+**4. What Agile processes do I hope to incorporate into my future development work?**  
+I plan to continue using Agile processes such as daily standups, sprint planning, and retrospectives in my future projects. These processes help improve communication, manage project scope, and enhance team collaboration. They also allow me to adapt to changes more easily, as seen when we shifted to a mobile-first approach in the SNHU Travel project.
+
+**5. What does it mean to be a good team member in software development?**  
+Being a good team member involves clear communication, active participation, and a willingness to collaborate. In our team, we worked together during daily standups to ensure everyone was on the same page and addressed any blockers immediately. This not only helped the project move forward but also fostered a strong team dynamic.
 
