@@ -25,5 +25,6 @@ My approach to program development follows a structured but flexible process. I 
 I plan to continue using Agile processes such as daily standups, sprint planning, and retrospectives in my future projects. These processes help improve communication, manage project scope, and enhance team collaboration. They also allow me to adapt to changes more easily, as seen when we shifted to a mobile-first approach in the SNHU Travel project.
 
 5. What does it mean to be a good team member in software development?
+
 Being a good team member involves clear communication, active participation, and a willingness to collaborate. In our team, we worked together during daily standups to ensure everyone was on the same page and addressed any blockers immediately. This not only helped the project move forward but also fostered a strong team dynamic.
 
