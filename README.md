@@ -3,8 +3,8 @@ Project Overview
 This project involved developing a travel app using Scrum-Agile methodologies. The primary focus was on implementing a destination filter feature and iterating based on user feedback. The Sprint Review and Retrospective document outlines the Agile and Scrum practices applied throughout the project, and how the team adapted to changes during development.
 
 Files in this Repository
-
 https://github.com/Jay4758/CS250_Final_Project/blob/main/Sprint%20Review%20and%20Retrospective%20-%20Jason%20Morocho.docx
+
 Reflections on Essential Questions
 1. How do I interpret user needs and implement them into a program?
 Interpreting user needs begins with understanding the client’s requirements through tools like user stories. For this project, user stories helped break down the features we needed to implement. They acted as a guide for the development team to ensure that we stayed on track with what the client expected.
